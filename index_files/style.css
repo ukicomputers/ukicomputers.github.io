@@ -543,7 +543,7 @@ span {
 .lgeHere__heading {
   background: linear-gradient(104deg, #FC307B 0%, #A22DC9 100%);
   display: inline-block;
-  font-family: Gobold;
+  font-family: "EuclidCircular", Arial;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 72px;
